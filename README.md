@@ -1,11 +1,12 @@
 # 👋 Hi there! I'm Hugo
 
-I'm a Computer Science student at the University of Texas at San Antonio, with a passion for iOS development and software engineering. I'm focused on building software solutions that empower businesses through technology and help drive innovation.
+I'm a Computer Science student at the University of Texas at San Antonio, with a passion for software engineering. I'm focused on building software solutions that empower businesses through technology and help drive innovation.
 
 ## 🐾 About Me
 - **University:** University of Texas at San Antonio
 - **Major:** Computer Science
-- **Interests:** I'm fascinated by the intersection of technology and real-world problem-solving. Whether it's building mobile apps that streamline day-to-day tasks, mentoring peers on their coding journey, or diving into the latest software trends, I'm always exploring how technology can be leveraged to create meaningful impacts.
+- **Interests:** ## 🐾 About Me
+- **Interests:** When I’m not coding, I enjoy staying active at the gym, exploring new places, and trying out different cuisines. I also love spending time with my Doberman, Avery, and keeping up with the latest tech trends.
 
 ## 🌟 Open to Opportunities
 I'm actively seeking internship opportunities, collaborations, and exciting projects. Let's connect and build something amazing together!
@@ -18,7 +19,6 @@ I'm actively seeking internship opportunities, collaborations, and exciting proj
 
 ### Languages
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,7 +27,6 @@ I'm actively seeking internship opportunities, collaborations, and exciting proj
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Libraries & Frameworks
-![SwiftUI Badge](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -36,4 +35,6 @@ I'm actively seeking internship opportunities, collaborations, and exciting proj
 ### Developer Tools & APIs
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![VS Code Badge](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
