@@ -5,7 +5,6 @@ I'm a Computer Science student at the University of Texas at San Antonio, with a
 ## 🐾 About Me
 - **University:** University of Texas at San Antonio
 - **Major:** Computer Science
-- **Interests:** 🐾 About Me
 - **Interests:** When I’m not coding, I enjoy staying active at the gym, exploring new places, and trying out different cuisines. I also love spending time with my Doberman, Avery, and keeping up with the latest tech trends.
 
 ## 🌟 Open to Opportunities
